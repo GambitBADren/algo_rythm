@@ -1,0 +1,13 @@
+15 December 2003|Annin Georgii Pashkevich|Mazda|Probox|AA777A
+15 January 2014|Shaidurov Georgii Alexievich|Mazda|Rav4|BA121C
+15 January 2015|Shaidurov Stepan Alexievich|Mazda|Prius|BA111C
+15 January 2012|Shaidurov Andrew|Toyota|Belta|BA141C
+15 January 2013|Abasov Viktor Abasikovich|Toyota|Rav4|BA131C
+24 July 2004|Chernikov Andrew Olegovich|Lada|Aqua|AB232A
+24 July 2004|Abasov Abas|Lada|Rav4|AA232B
+14 May 2002|Proskurin Artyom |Toyota|Rav4|BC121C
+12 November 2003 |Vorobyov Viktor Alexievich|Nissan|Logan|AB631Y
+16 January 2001 |Lopatin Andrew Olegovich|Lada|Almera|AT212M
+23 March 2001 |As As As|Honda|Probox|AA888A
+23 March 2002 |As As As|Honda|Probox|AA888A
+23 March 2000 |As As As|Honda|Probox|AA888A

@@ -1,0 +1,8 @@
+24 July 2004|Abasov Abas|Lada|Rav4|A232AB
+15 December 2003|Annin Georgii Pashkevich |Mazda|Probox|A777AA
+12 November 2003|Vorobyov Viktor Alexievich|Nissan|Logan|A631BY
+16 January 2001|Lopatin Andrew Olegovich|Lada|Almera|A212TM
+14 May 2002|Proskurin Artyom|Toyota|Rav4|B121CC
+15 January 2015|Shaidurov Stepan Alexievich|Mazda|Prius|B111AC
+15 January 2014|Shaidurov Georgii Alexievich|Mazda|Rav4|B121AC
+15 January 2013|Abasov Viktor Abasikovich|Toyota|Rav4|B131AC
